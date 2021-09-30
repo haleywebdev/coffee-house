@@ -8,7 +8,7 @@
 }
 
 .list {
-    margin: 10px;
+    margin: 50px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
