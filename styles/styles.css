@@ -3,7 +3,7 @@
 }
 
 .shop { 
-    border: 1px dotted;
+    border: 1px dotted red;
     flex-basis: 20%;
 }
 
